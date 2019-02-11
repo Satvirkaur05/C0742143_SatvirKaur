@@ -68,6 +68,7 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="FormValidation.html" />
     <Content Include="HandlingEvent.html" />
     <Content Include="images\index.png" />
     <Content Include="index.html" />
